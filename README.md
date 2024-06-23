@@ -14,7 +14,7 @@ haarcascade_frontalface_default.xml
 haarcascade_eye_tree_eyeglasses.xml
 These files are typically available in your OpenCV installation or can be downloaded from OpenCV's GitHub repository
 
-Run the script:python snaplens.py
+Run the script:Glasses/glass{}.png 
 Look at your webcam feed. It will detect your face and overlay different glasses designs from the Glasses folder (glass1.png to glass29.png) as you blink.
 
 Configuration:
